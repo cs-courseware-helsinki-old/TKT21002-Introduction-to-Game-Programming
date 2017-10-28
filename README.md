@@ -1,8 +1,8 @@
 # TKT21002-Introduction-to-Game-Programming
 
 ### Kurssisivut
-* [kaikki](https://courses.helsinki.fi/fi/tkt10003/)
-* [syksy-2017](https://courses.helsinki.fi/fi/tkt10003/119284733)
+* [kaikki](https://courses.helsinki.fi/fi/tkt21002/)
+* [syksy-2017](https://courses.helsinki.fi/fi/tkt21002/119284687)
 
 ### Kurssimateriaalit
-* [syksy-2017](ttps://2017-ohjelmointi.github.io/)
+* [syksy-2017]()
